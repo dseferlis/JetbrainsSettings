@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\KappakosGr.Spa\ClientApp\src\app\products\products.component.html'" />
-    <option name="defaultScopeName" value="File '...\KappakosGr.Spa\ClientApp\src\app\products\products.component.html'" />
-    <option name="SEARCH_SCOPE" value="File '...\KappakosGr.Spa\ClientApp\src\app\products\products.component.html'" />
+    <option name="customScope" value="File '...\ServiceManager.Data\Data\DbSeeder.cs'" />
+    <option name="defaultScopeName" value="File '...\ServiceManager.Data\Data\DbSeeder.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\ServiceManager.Data\Data\DbSeeder.cs'" />
   </component>
 </application>
