@@ -3,14 +3,6 @@
     <option name="serverContexts">
       <array>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="844de8d0-aa29-48f6-8225-97e58871e3f5" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://pssgr.visualstudio.com/KappakosGr/_git/KappakosGr" />
           <option name="serverUri" value="https://pssgr.visualstudio.com" />
