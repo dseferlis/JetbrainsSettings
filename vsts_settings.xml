@@ -12,14 +12,6 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;35208855-df5e-41d8-8172-8398de067fa5&quot;,&quot;name&quot;:&quot;KappakosGr&quot;,&quot;remoteUrl&quot;:&quot;https://pssgr.visualstudio.com/KappakosGr/_git/KappakosGr&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/git/repositories/35208855-df5e-41d8-8172-8398de067fa5&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;8f6e3685-4709-4b9e-a2e4-856ff56ced25&quot;,&quot;name&quot;:&quot;KappakosGr&quot;,&quot;revision&quot;:459196291,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/projects/8f6e3685-4709-4b9e-a2e4-856ff56ced25&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="844de8d0-aa29-48f6-8225-97e58871e3f5" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://pssgr.visualstudio.com/RigasOffers/_git/RigasOffers" />
           <option name="serverUri" value="https://pssgr.visualstudio.com" />
@@ -38,7 +30,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//pssgr.visualstudio.com/rigasoffers/_git/rigasoffers" />
+          <option name="value" value="//pssgr.visualstudio.com/defaultcollection/_git/kappakosgr" />
         </PropertyState>
       </array>
     </option>
