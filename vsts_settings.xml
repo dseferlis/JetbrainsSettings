@@ -1,26 +1,7 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://pssgr.visualstudio.com/defaultcollection/_git/KappakosGr" />
-          <option name="serverUri" value="https://pssgr.visualstudio.com" />
-          <option name="userId" value="844de8d0-aa29-48f6-8225-97e58871e3f5" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5466f70f-e1de-43dd-8a83-ec6cb15c62bc&quot;,&quot;name&quot;:&quot;pssgr&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/projectCollections/5466f70f-e1de-43dd-8a83-ec6cb15c62bc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;8f6e3685-4709-4b9e-a2e4-856ff56ced25&quot;,&quot;name&quot;:&quot;KappakosGr&quot;,&quot;revision&quot;:459196291,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/projects/8f6e3685-4709-4b9e-a2e4-856ff56ced25&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;35208855-df5e-41d8-8172-8398de067fa5&quot;,&quot;name&quot;:&quot;KappakosGr&quot;,&quot;remoteUrl&quot;:&quot;https://pssgr.visualstudio.com/KappakosGr/_git/KappakosGr&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/git/repositories/35208855-df5e-41d8-8172-8398de067fa5&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;8f6e3685-4709-4b9e-a2e4-856ff56ced25&quot;,&quot;name&quot;:&quot;KappakosGr&quot;,&quot;revision&quot;:459196291,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/projects/8f6e3685-4709-4b9e-a2e4-856ff56ced25&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://pssgr.visualstudio.com/RigasOffers/_git/RigasOffers" />
-          <option name="serverUri" value="https://pssgr.visualstudio.com" />
-          <option name="userId" value="844de8d0-aa29-48f6-8225-97e58871e3f5" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5466f70f-e1de-43dd-8a83-ec6cb15c62bc&quot;,&quot;name&quot;:&quot;pssgr&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/projectCollections/5466f70f-e1de-43dd-8a83-ec6cb15c62bc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;7e356f8d-85f5-43d1-82a9-0f41a0d471e6&quot;,&quot;name&quot;:&quot;RigasOffers&quot;,&quot;revision&quot;:459196351,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/projects/7e356f8d-85f5-43d1-82a9-0f41a0d471e6&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;97d10ae4-f040-4bc7-af2b-12550602dbda&quot;,&quot;name&quot;:&quot;RigasOffers&quot;,&quot;remoteUrl&quot;:&quot;https://pssgr.visualstudio.com/RigasOffers/_git/RigasOffers&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/7e356f8d-85f5-43d1-82a9-0f41a0d471e6/_apis/git/repositories/97d10ae4-f040-4bc7-af2b-12550602dbda&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;7e356f8d-85f5-43d1-82a9-0f41a0d471e6&quot;,&quot;name&quot;:&quot;RigasOffers&quot;,&quot;revision&quot;:459196351,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://pssgr.visualstudio.com/_apis/projects/7e356f8d-85f5-43d1-82a9-0f41a0d471e6&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
