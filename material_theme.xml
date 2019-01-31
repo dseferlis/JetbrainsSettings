@@ -1,10 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
+    <option name="accentColor" value="2979ff" />
     <option name="selectedTheme" value="ONE_DARK" />
-    <option name="userId" value="6fae5c66:168a554bb9d:-8000" />
+    <option name="userId" value="-2a56f49b:168a557fae6:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
 </application>
