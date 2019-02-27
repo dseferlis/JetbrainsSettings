@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\WpUpdater\Program.cs'" />
-    <option name="defaultScopeName" value="File '...\WpUpdater\Program.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\WpUpdater\Program.cs'" />
+    <option name="customScope" value="File '...\WpUpdater\ImportRemotely.cs'" />
+    <option name="defaultScopeName" value="File '...\WpUpdater\ImportRemotely.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\WpUpdater\ImportRemotely.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
